@@ -28,5 +28,4 @@ height="50"/>
 
 #### Checkout my last project here [Jigglystore](https://github.com/premell/pokemon_store_nextjs)
 
-[![name](./images/jigglystore.png)](https://github.com/premell/pokemon_store_nextjs)
-[<img alt="alt_text" width="40px" src="./images/jigglystore.png" />](https://github.com/premell/pokemon_store_nextjs)
+[<img alt="alt_text" width="500px" src="./images/jigglystore.png" />](https://github.com/premell/pokemon_store_nextjs)
