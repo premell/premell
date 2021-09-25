@@ -1,7 +1,9 @@
 ### JigglyStore
-A pokemon sto
+A pokemon store, where you can buy all your favorite pokemon :grinning:
 
-## Technologies used
+#### Demo [Jigglystore](https://pokemon-store-nextjs.vercel.app)
+
+#### Technologies used
 <img
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
 width="50" 
@@ -14,6 +16,14 @@ height="50"/>
 src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"
      width="50" 
 height="50"/>
-<img src="./images/recoil.svg" width="50" height="50">
+<img src="./images/recoil.svg" width="50" height="50"/>
 
-https://pokemon-store-nextjs.vercel.app
+#### Features
+* Dark mode
+* Favorite pokemon, together with a modal to view them
+* Multiple filters
+* Different sorting methods
+* Cart dropdown
+
+##### The data was gotten from this api [pokeapi](https://pokeapi.co/)
+
