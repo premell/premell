@@ -11,5 +11,6 @@ src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772
 <img
 src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"
 />
+![](./images/recoil.svg)
 
 https://pokemon-store-nextjs.vercel.app/
