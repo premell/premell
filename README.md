@@ -16,16 +16,8 @@ src="https://raw.githubusercontent.com/styled-components/brand/master/styled-com
      width="50" 
 height="50"/>
 <img src="./images/recoil.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="50" height="50"/>
 
-#### Features
-* Dark mode
-* Favorite pokemon, together with a modal to view them
-* Multiple filters
-* Different sorting methods
-* Cart dropdown
 
-##### The data was gotten from this api [pokeapi](https://pokeapi.co/)
-
-#### Checkout my last project here [Jigglystore](https://github.com/premell/pokemon_store_nextjs)
-
+#### Checkout my last project here
 [<img alt="alt_text" width="500px" src="./images/jigglystore.png" />](https://github.com/premell/pokemon_store_nextjs)
