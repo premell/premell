@@ -1,9 +1,8 @@
-### JigglyStore
-A pokemon store, where you can buy all your favorite pokemon :grinning:
+### Hello, I'm Elmer :wave:
+I am a frontend developer
 
-#### Demo [Jigglystore](https://pokemon-store-nextjs.vercel.app)
 
-#### Technologies used
+#### Technologies
 <img
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
 width="50" 
@@ -27,3 +26,7 @@ height="50"/>
 
 ##### The data was gotten from this api [pokeapi](https://pokeapi.co/)
 
+#### Checkout my last project here [Jigglystore](https://github.com/premell/pokemon_store_nextjs)
+
+[![name](./images/jigglystore.png)](https://github.com/premell/pokemon_store_nextjs)
+[<img alt="alt_text" width="40px" src="./images/jigglystore.png" />](https://github.com/premell/pokemon_store_nextjs)
