@@ -1,5 +1,5 @@
 ### Hello, I'm Elmer :wave:
-I'm a frontend developer that loves learning about new technologies. I 
+I'm a frontend developer that loves learning about new technologies.
 
 
 #### Languages and tools
