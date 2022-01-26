@@ -25,5 +25,5 @@ height="50"/>
 
 
 
-#### Checkout my last project here
+#### Checkout my latest project here
 [<img alt="alt_text" width="500px" src="./images/jigglystore.png" />](https://github.com/premell/pokemon_store_nextjs)
