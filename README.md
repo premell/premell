@@ -11,7 +11,7 @@ A passionate frontend developer with a knack for learning new technologies and b
 
 
 ### Checkout my latest project, a multiplayer othello game!
-[<img alt="alt_text" width="500px" src="./images/othello.png" />](https://othello-frontend.fly.dev/)
+[<img alt="alt_text" width="500px" src="./images/othello_sc.png" />](https://othello-frontend.fly.dev/)
 
 
 ### Get in Touch
